@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Orangutan
+comment0.text=\n\ Write\ a\ description\ of\ class\ Orangutan\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Orangutan()
+comment2.params=initSpecies\ initIsYelling\ initBananas
+comment2.target=Orangutan(java.lang.String,\ boolean,\ int)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=void\ yellAtSomeone()
+comment5.params=
+comment5.target=void\ getBananasEaten()
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Panda
+comment1.params=
+comment1.target=Panda()
+comment2.params=initSpecies\ initIsSleeping
+comment2.target=Panda(java.lang.String,\ boolean)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=void\ sleep()
+comment5.params=
+comment5.target=java.lang.String\ toString()
+numComments=6

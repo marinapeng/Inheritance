@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ZooContainer
+comment1.params=
+comment1.target=ZooContainer()
+comment2.params=newAnimal
+comment2.target=void\ addAnimals(Zoo)
+comment3.params=newAnimal
+comment3.target=void\ removeAnimals(Zoo)
+comment4.params=
+comment4.target=void\ getAnimal()
+numComments=5
